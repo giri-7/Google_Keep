@@ -17,7 +17,7 @@ Clone the repository:
 
 Clone the repo using the command bellow
 
-git clone git@bitbucket.org:giri_777/keep_google.git
+git clone https://github.com/giri-7/Google_Keep.git
 
 // downloads code in your local device
 
